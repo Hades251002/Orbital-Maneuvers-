@@ -15,3 +15,5 @@ The primary goal of this project is:
 
 This code is intended for educational and exploratory purposes and assumes idealized conditions (instantaneous burns, two-body dynamics).
 
+date: July 2025
+author: Adelaide Di Caprio

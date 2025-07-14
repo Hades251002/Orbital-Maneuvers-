@@ -1,4 +1,4 @@
-# 🛰️ Orbital Maneuvers MATLAB scripts
+# Orbital Maneuvers MATLAB scripts
 
 This repository is a comprehensive collection of MATLAB scripts dedicated to simulating, analyzing, and visualizing **orbital maneuvers** in space flight mechanics. It focuses on both **in-plane** and **out-of-plane** transfers, with tools to compare their performance and analyze key trade-offs such as delta-V efficiency.
 
